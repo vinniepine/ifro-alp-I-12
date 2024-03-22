@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Algoritmos feitos em sala\\ALP I\\ALP I - 12. Pr\u00E1tica para a avalia\u00E7\u00E3o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03D95B3-7FE0-4668-A153-E0FCBDA0A823}|Pr\u00E1tica para a prova.csproj|c:\\users\\usuario\\desktop\\algoritmos feitos em sala\\alp i\\alp i - 12. pr\u00E1tica para a avalia\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03D95B3-7FE0-4668-A153-E0FCBDA0A823}|Pr\u00E1tica para a prova.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Algoritmos feitos em sala\\ALP I\\ALP I - 12. Pr\u00E1tica para a avalia\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Algoritmos feitos em sala\\ALP I\\ALP I - 12. Pr\u00E1tica para a avalia\u00E7\u00E3o\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIUBAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T18:01:32.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
